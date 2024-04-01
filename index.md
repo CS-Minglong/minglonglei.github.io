@@ -4,20 +4,22 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently an associate professor at the Beijing University of Technology. I received my Ph.D. degree in computer science at the University of Chinese Academy of Sciences.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** structure learning, semi-supervised learning, graph clustering.
+- **Deep Learning:** graph neural networks, spatio-temporal neural networks, Transformers.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2024]** Our paper about spatio-temporal Transformers for weather forecasting has been accepted to IEEE TBD.
+- **[Dec. 2023]** Our paper about GNNs for solving CO problems has been accepted to Science China-Mathematics.
+- **[Nov. 2023]** Our paper about adversarial attacks for GNNs has been accepted to Information Sciences.
+
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/students.md %}
