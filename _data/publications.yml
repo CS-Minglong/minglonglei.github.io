@@ -1,29 +1,57 @@
 main:
 
+   - title: Supervised contrastive learning with structure inference for graph classification
+    authors: Junzhong Ji, Hao Jia, Yating Ren, <strong>Minglong Lei*<strong> (*Corresponding author)
+    conference_short: T-NSE
+    conference: IEEE Transactions on Network Science and Engineering <strong>(T-NSE)</strong>, 2023.
+    doi: https://doi.org/10.1109/TNSE.2022.3233479
+    image: ./assets/img/2023TNSE.png
+
+   - title: Self-supervised spatiotemporal graph neural networks with self-distillation for traffic prediction
+    authors: Junzhong Ji, Fan Yu, <strong>Minglong Lei*<strong> (*Corresponding author)
+    conference_short: T-ITS
+    conference: IEEE Transactions on Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2023.
+    doi: https://doi.org/10.1109/TITS.2022.3219626
+    image: ./assets/img/2023TITS.png
+
+   - title: Self-supervised knowledge distillation for complementary label learning
+    authors: Jiabin Liu, Biao Li*, <strong>Minglong Lei*<strong>, Yong Shi (*Corresponding authors)
+    conference_short: NN
+    conference: Neural Networks <strong>(NN)</strong>, 2022.
+    doi: https://doi.org/10.1016/j.neunet.2022.08.014
+    image: ./assets/img/2022NNSelf.png
+  
+  - title: FC-HAT: Hypergraph Attention Network for Functional Brain Network Classification
+    authors: Junzhong Ji, Yating Ren, <strong>Minglong Lei*<strong> (*Corresponding author)
+    conference_short: Ins
+    conference: Information Sciences <strong>(Ins)</strong>, 2022.
+    doi: https://doi.org/10.1016/j.ins.2022.07.041
+    image: ./assets/img/2022InsFC.png
+
+  - title: Deep attributed graph clustering with self-separation regularization and parameter-free cluster estimation
+    authors: Junzhong Ji, Ye Liang, <strong>Minglong Lei*<strong> (*Corresponding author)
+    conference_short: NN
+    conference: Neural Networks <strong>(NN)</strong>, 2021.
+    doi: https://doi.org/10.1016/j.neunet.2021.07.012
+    image: ./assets/img/2021NNClustering.png
+
+  - title: DigGCN: Learning Compact Graph Convolutional Networks via Diffusion Aggregation
+    authors: <strong>Minglong Lei<strong>, Pei Quan, Rongrong Ma, Yong Shi, Lingfeng Niu
+    conference_short: T-CYB
+    conference: IEEE Transactions on Cybernetics <strong>(T-CYB)</strong>, 2020.
+    doi: https://doi.org/10.1109/TCYB.2020.2988791
+    image: ./assets/img/2020TCYB.png
+
   - title: Discrete Embedding for Latent Networks
-    authors: Hong Yang, Ling Chen, Minglong Lei, Lingfeng Niu, Chuan Zhou, Peng Zhang
+    authors: Hong Yang, Ling Chen, <strong>Minglong Lei<strong>, Lingfeng Niu, Chuan Zhou, Peng Zhang
     conference_short: IJCAI
     conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    image: ./assets/img/teaser_example_2.png
+    doi: https://doi.org/10.24963/ijcai.2020/170
+    image: ./assets/img/2020IJCAI.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: Diffusion network embedding
+    authors: Yong Shi, <strong>Minglong Lei<strong>, Hong Yang, Lingfeng Niu
+    conference_short: IJCAI
+    conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2020.
+    doi: https://doi.org/10.1016/j.patcog.2018.12.004
+    image: ./assets/img/2019PR.png  
