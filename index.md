@@ -19,3 +19,4 @@ I am currently an associate professor at the Beijing University of Technology. I
 
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/services.md %}
