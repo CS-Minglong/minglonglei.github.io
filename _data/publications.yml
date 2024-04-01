@@ -51,7 +51,7 @@ main:
 
   - title: Diffusion network embedding
     authors: Yong Shi, <strong>Minglong Lei<strong>, Hong Yang, Lingfeng Niu
-    conference_short: IJCAI
-    conference: International Joint Conference on Artificial Intelligence <strong>(IJCAI)</strong>, 2020.
+    conference_short: PR
+    conference: International Joint Conference on Artificial Intelligence <strong>(PR)</strong>, 2020.
     doi: https://doi.org/10.1016/j.patcog.2018.12.004
     image: ./assets/img/2019PR.png  
