@@ -1,12 +1,4 @@
-main:
-
-   - title: "Self-supervised spatiotemporal graph neural networks with self-distillation for traffic prediction"
-    authors: Junzhong Ji, Fan Yu, <strong>Minglong Lei*<strong> (*Corresponding author)
-    conference_short: T-ITS
-    conference: IEEE Transactions on Intelligent Transportation Systems <strong>(T-ITS)</strong>, 2023.
-    pdf: https://doi.org/10.1109/TITS.2022.3219626
-    image: ./assets/img/2023TITS.png
-    
+main:    
    - title: "Self-supervised knowledge distillation for complementary label learning"
     authors: Jiabin Liu, Biao Li*, <strong>Minglong Lei*<strong>, Yong Shi (*Corresponding authors)
     conference_short: NN
