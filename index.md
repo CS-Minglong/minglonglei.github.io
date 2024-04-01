@@ -24,8 +24,12 @@ I am currently an associate professor at the Beijing University of Technology. I
 
 
 ## Students
+Current students
+- **[2023.09-]** Can Zhang (张璨); Co-supervision: Sicheng He (何思成) 
+- **[2022.09-]** Co-supervision: Qingzhao He (何庆钊), Zhulin Shao (邵珠琳). 
+- **[2021.09-]** Co-supervision (BJUT): Jing He (贺静), Runfeng Zhao (赵润峰); Co-supervision (UCAS): Chengxi Song (宋成蹊), Ruibing Zeng (曾瑞斌).
 
-
+Graduated students
 - **[2023.06]** Co-supervision: Hao Jia (贾浩) 
-- **[2022.06]** Co-supervision: Yating Ren(任亚亭), Fan Yu(于帆), Le Yu(于乐). 
-- **[2021.06]** Co-supervision: Ye Liang(梁烨) 
+- **[2022.06]** Co-supervision: Yating Ren (任亚亭), Fan Yu (于帆), Le Yu (于乐). 
+- **[2021.06]** Co-supervision: Ye Liang (梁烨) 
