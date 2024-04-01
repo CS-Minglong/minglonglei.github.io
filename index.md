@@ -22,4 +22,10 @@ I am currently an associate professor at the Beijing University of Technology. I
 
 {% include_relative _includes/services.md %}
 
-{% include_relative _includes/students.md %}
+
+## Students
+
+
+- **[2023.06]** Co-supervision: Hao Jia (贾浩) 
+- **[2022.06]** Co-supervision: Yating Ren(任亚亭), Fan Yu(于帆), Le Yu(于乐). 
+- **[2021.06]** Co-supervision: Ye Liang(梁烨) 
