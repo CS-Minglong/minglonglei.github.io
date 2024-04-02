@@ -17,6 +17,6 @@ I am currently an associate professor at the Beijing University of Technology. I
 - **[Dec. 2023]** Our paper about GNNs for solving CO problems has been accepted to Science China Mathematics.
 - **[Nov. 2023]** Our paper about adversarial attacks for GNNs has been accepted to Information Sciences.
 
-
 {% include_relative _includes/publications.md %}
+
 {% include_relative _includes/services.md %}
