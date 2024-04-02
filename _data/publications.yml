@@ -1,10 +1,12 @@
 main:
 
-
-  - title: "DigGCN: Learning Compact Graph Convolutional Networks via Diffusion Aggregation"
-    authors: <strong>Minglong Lei<strong>, Pei Quan, Rongrong Ma, Yong Shi, Lingfeng Niu
-    conference_short: T-CYB
-    conference: IEEE Transactions on Cybernetics <strong>(T-CYB)</strong>, 2020.
+  - title: "DigGCN Learning Compact Graph Convolutional Networks via Diffusion Aggregation"
+    authors: <strong>Minglong Lei</strong>, Pei Quan, Rongrong Ma, Lingfeng Niu, Yong Shi
+    conference_short: TCYB
+    conference: IEEE Transactions on Cybernetics <strong>(TCYB)</strong>, 2020.
     pdf: https://doi.org/10.1109/TCYB.2020.2988791
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     notes: JCR Q1
     image: ./assets/img/2020TCYB.png
