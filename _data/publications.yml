@@ -1,13 +1,10 @@
 main:
 
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "DigGCN: Learning Compact Graph Convolutional Networks via Diffusion Aggregation"
+    authors: <strong>Minglong Lei<strong>, Pei Quan, Rongrong Ma, Yong Shi, Lingfeng Niu
+    conference_short: T-CYB
+    conference: IEEE Transactions on Cybernetics <strong>(T-CYB)</strong>, 2020.
+    pdf: https://doi.org/10.1109/TCYB.2020.2988791
+    notes: JCR Q1
+    image: ./assets/img/2020TCYB.png
