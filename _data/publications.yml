@@ -1,12 +1,5 @@
 main:
 
-  - title: "DigGCN: Learning Compact Graph Convolutional Networks via Diffusion Aggregation"
-    authors: <strong>Minglong Lei</strong>, Pei Quan, Rongrong Ma, Lingfeng Niu, Yong Shi
-    conference_short: TCYB
-    conference: IEEE Transactions on Cybernetics <strong>(TCYB)</strong>, 2020.
-    pdf: https://doi.org/10.1109/TCYB.2020.2988791
-    notes: JCR Q1
-    image: ./assets/img/2020TCYB.png
 
   - title: "Spatio-Temporal Transformer Network for Weather Forecasting"
     authors: Junzhong Ji, Jing He, <strong>Minglong Lei*</strong>, Muhua Wang, Wei Tang (*Corresponding author)
