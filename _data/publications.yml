@@ -1,18 +1,6 @@
 main:
 
 
-  - title: "Diffusion network embedding"
-    authors: Yong Shi, <strong>Minglong Lei<strong>, Hong Yang, Lingfeng Niu
-    conference_short: PR
-    conference: Pattern Recognition <strong>(PR)</strong>, 2020.
-    pdf: https://doi.org/10.1016/j.patcog.2018.12.004
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/2019PR.png
-
-
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
