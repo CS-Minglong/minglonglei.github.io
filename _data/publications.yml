@@ -1,6 +1,14 @@
 main:
 
 
+  - title: Diffusion network embedding
+    authors: Yong Shi, <strong>Minglong Lei<strong>, Hong Yang, Lingfeng Niu
+    conference_short: PR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    page: https://doi.org/10.1016/j.patcog.2018.12.004
+    image: ./assets/img/2019PR.png
+
+
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
     conference_short: CVPR
